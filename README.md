@@ -1,10 +1,14 @@
-=> This project is Flutter Application for adult image detection.
-=> Still it is a very complex task to test/validate adult content when a user uploads data to application.
-=> Even big social media platforms like facebook and Instagram is not 100% able to validate and deal with adult content on the runtime when content is uploading.
-=> Here in this app I have shown minimalistic approach how to filter out adult content at the very moment when user tries to upload.
-=> In this flutter app I have shown how to filter adult images at the very moment when it is uploading.
-=> Even this approach is not 100% efficient but yes it is efficient upto 70-80%.
-=> Most of the startup apps which is using data by users can implement or use this approach.
+=> This project is Flutter Application for adult image detection.<br>
+=> Still it is a very complex task to test/validate adult content when a user uploads data to application.<br>
+=> Even big social media platforms like facebook and Instagram is not 100% able to validate and deal with adult content on the runtime when content is all set to upload.<br>
+=> Here in this app I have shown simple and effective approach to filter out adult content at the very moment when user tries to upload te image.<br>
+=> In this flutter app I have shown how to filter adult images at the very moment when it is uploading.<br>
+=> Even this approach is not 100% efficient but yes it is efficient upto 70-80%.<br>
+=> Most of the startup(social media, blogs , any user generated data) apps which is using data by users can implement or use this approach.<br>
+
+Note: 
+  For those developers who wants to filter out local images of the device make a temparary store of file when user selects that image then test that temparary url and validate.
+  
 
 <br>
 <br>
